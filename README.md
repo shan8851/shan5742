@@ -16,7 +16,7 @@ I understand the importance of self learning and staying current in this ever ch
 - 📫 How to reach me: 
   - [Twitter](http://google.com)
   - [LinkedIn](http://google.com)
-  - Email: <asamshan456@gmail.com>
+  - <asamshan456@gmail.com>
   - [Phone](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 - 📝 Read my blog [here](https://www.asamshan.dev)
 

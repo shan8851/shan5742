@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Asam
-[![trophy](https://github-profile-trophy.vercel.app/?username=shan5742)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shan5742&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me
 ***

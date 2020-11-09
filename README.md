@@ -5,7 +5,7 @@
 ***
 A JavaScript junkie with a genuine passion for the industry as a whole. most of my experience is in React, but I'm always exploring other frameworks and technologies to ensure I'm up to date in this industry.
 
-Day to day I am working with React, react-native, GatsbyJS, Firebase and Netlify.
+Day to day I am working with React, react-native, GatsbyJS, NEXTJS, Firebase and Netlify.
 
 I understand the importance of self learning and staying current in this ever changing environment and thrive off the challenge that brings. 
 

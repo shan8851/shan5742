@@ -1,3 +1,5 @@
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
+
 - 👋 I'm Shan
 - 🌱 I’m currently learning Solidity & everything web3
 - 👯 I’m looking to collaborate on any blockchain/defi related projects

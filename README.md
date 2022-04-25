@@ -1,24 +1,12 @@
-## Hi there 👋 I'm Asam
-[![trophy](https://github-profile-trophy.vercel.app/?username=shan5742&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-### About Me
-***
-A JavaScript junkie with a genuine passion for the industry as a whole. most of my experience is in React, but I'm always exploring other frameworks and technologies to ensure I'm up to date in this industry.
-
-Day to day I am working with React, react-native, GatsbyJS, NEXTJS, Firebase and Netlify.
-
-I understand the importance of self learning and staying current in this ever changing environment and thrive off the challenge that brings. 
-
-***
-
-- 🌱 I’m currently learning Docker, Kubernetes and AWS
-- 👯 I’m looking to collaborate on cool open source projects enabling people to break into the world of tech
+- 👋 I'm Asam
+- 🌱 I’m currently learning Solidity & everything web3
+- 👯 I’m looking to collaborate on any blockchain/defi related projects
 - 💬 Ask me about anything
 - 📫 How to reach me: 
-  - [Twitter](http://google.com)
-  - [LinkedIn](http://google.com)
+  - [Twitter](https://twitter.com/shan8851)
+  - [LinkedIn](https://www.linkedin.com/in/asamshan/)
   - <asamshan456@gmail.com>
   - [Phone](https://www.youtube.com/watch?v=oHg5SJYRHA0)
-- 📝 Read my blog [here](https://www.asamshan.dev)
+
 
 
